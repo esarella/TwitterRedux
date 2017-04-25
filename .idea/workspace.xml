@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6816abf2-25ab-455b-8bb1-0fafaca3e249" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Readme.md" afterPath="$PROJECT_DIR$/Readme.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -203,6 +203,9 @@
         <option value="$PROJECT_DIR$/Readme.md" />
       </list>
     </option>
+  </component>
+  <component name="Jenkins.Settings">
+    <option name="lastSelectedView" value="All" />
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -457,12 +460,12 @@
       <updated>1492930389954</updated>
       <workItem from="1492930391724" duration="7345000" />
       <workItem from="1492975636498" duration="3529000" />
-      <workItem from="1492991919508" duration="504000" />
+      <workItem from="1492991919508" duration="648000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11378000" />
+    <option name="totallyTimeSpent" value="11522000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1053" extended-state="6" />

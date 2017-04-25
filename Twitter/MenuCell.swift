@@ -20,10 +20,10 @@ class MenuCell: UITableViewCell {
 
         if selected {
             let backgroundView = UIView()
-            backgroundView.backgroundColor = FlatNavyBlueDark()
+            backgroundView.backgroundColor = FlatNavyBlue()
             self.selectedBackgroundView = backgroundView
         } else {
-        self.backgroundColor = FlatNavyBlue()
+        self.backgroundColor = FlatNavyBlueDark()
         }
 
     }
